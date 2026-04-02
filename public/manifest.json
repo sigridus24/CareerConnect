@@ -1,0 +1,26 @@
+{
+  "name": "CareerConnect - Job Search & Networking",
+  "short_name": "CareerConnect",
+  "description": "Find jobs, connect with recruiters, and advance your career",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1E2139",
+  "theme_color": "#1E2139",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "screenshots": []
+}
